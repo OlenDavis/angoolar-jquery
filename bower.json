@@ -1,0 +1,17 @@
+{
+	"name"       : "angoolar-jquery",
+	"authors"    : [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
+	"description": "This avails full jQuery to Angoolar projects.",
+	"keywords"   : [
+		"angoolar",
+		"angular",
+		"jquery"
+	],
+	"license" : "MIT",
+	"homepage": "http://angoolar.com",
+	"ignore"  : [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	]
+}
